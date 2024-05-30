@@ -1,0 +1,26 @@
+# Ignore vendor directories
+/vendor/
+/node_modules/
+
+# Composer specific
+/composer.lock
+/composer.phar
+
+# npm specific
+/package-lock.json
+/yarn.lock
+
+# General system files
+.DS_Store
+Thumbs.db
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# OS generated files
+*.swp
+*.swo
+*.bak
+*.tmp
