@@ -38,3 +38,7 @@ $car->setColor('red')->setEngine('V8')->setWheels(4);
 
 This `README.md` provides a structured overview of abstract classes, interfaces, traits, and method chaining in PHP, making it easy for readers to understand and implement these concepts in their projects.
 ```
+
+# vendor/bin/phpunit --migrate-configuration
+
+# vendor/bin/phpunit --testdox Tests
